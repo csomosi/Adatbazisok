@@ -1,0 +1,2 @@
+# Adatbazisok
+Adatbázisok házi feladat
