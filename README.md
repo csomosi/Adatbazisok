@@ -1,2 +1,4 @@
 # Adatbazisok
-Adatbázisok házi feladat
+Adatbázisok házi feladatok
+1. sakila
+
