@@ -1,4 +1,6 @@
 # Adatbazisok
-Adatbázisok házi feladatok
-1. sakila
 
+Adatbázisok házi feladatok
+
+1. sakila
+2. employees
